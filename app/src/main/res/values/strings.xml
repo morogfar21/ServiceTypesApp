@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo Services</string>
+    <string name="btnStopService">Stop</string>
+    <string name="btnStartService">Start</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnStartForeground">Start Foreground</string>
+    <string name="btnStopForeground">Stop Foreground</string>
+    <string name="btnBind">Bind</string>
+    <string name="btnUnbind">Unbind</string>
+    <string name="btnCount">get count</string>
+</resources>
